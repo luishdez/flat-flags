@@ -1,0 +1,17 @@
+{
+  "name": "flat-flags",
+  "version": "1.0.0",
+  "description": "Flat flags icon",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-sprite-generator": "0.0.5",
+    "grunt-spritesmith": "^5.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
