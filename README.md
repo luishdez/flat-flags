@@ -1,4 +1,5 @@
-# Flat Flags
+Flat Flags
+==========
 
 A set of flags for CSS and LESS
 
