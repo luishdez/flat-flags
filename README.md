@@ -2,6 +2,10 @@
 
 A set of flags for CSS and LESS
 
+## Install with Bower
+
+    bower install flat-flags
+
 ## Usage
 
 ```css
