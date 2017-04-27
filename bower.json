@@ -1,5 +1,6 @@
 {
   "name": "flat-flags",
+  "version": "1.0.1",
   "description": "Flat flags css icons",
   "main": "less/main.less",
   "authors": [

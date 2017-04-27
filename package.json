@@ -1,6 +1,6 @@
 {
   "name": "flat-flags",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flat flags icon",
   "main": "index.js",
   "dependencies": {},
