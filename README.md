@@ -9,7 +9,7 @@ A set of flags for CSS and LESS
 
     bower install flat-flags
 
-## Usage
+## Usage
 
 ```css
 <i class="flag-sm flag-sm-ES"></i>
@@ -21,9 +21,9 @@ There are two sizes 16px and 47px. Use `flag-sm` or `flag-md` in your css class
 
 ## Mentions
 
-Original image flags from https://dribbble.com/shots/1211759-Free-195-Flat-Flags
+Original image flags from [https://dribbble.com/shots/1211759-Free-195-Flat-Flags](https://web.archive.org/web/20200303101540/https://dribbble.com/shots/1211759-Free-195-Flat-Flags)
 
-## License
+## License
 
 Copyright (c) 2015 Luis Hdez
 
