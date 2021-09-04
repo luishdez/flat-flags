@@ -1,6 +1,9 @@
 Flat Flags
 ==========
 
+> This is an old repo. PRs and Team members are welcome though. 
+> I recommend to check this repo before using this one: https://github.com/madebybowtie/FlagKit
+
 A set of flags for CSS and LESS
 
 ![GitHub Logo](https://raw.githubusercontent.com/wobblecode/flat-flags/master/images/banners/flags-animated.gif)
